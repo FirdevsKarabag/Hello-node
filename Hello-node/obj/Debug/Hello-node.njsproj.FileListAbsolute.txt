@@ -1,0 +1,3 @@
+C:\Users\Karabag\source\repos\Hello-node\obj\Debug\Hello-node.njsproj.AssemblyReference.cache
+C:\Users\Karabag\source\repos\Hello-node\obj\Debug\Hello-node.njsproj.CoreCompileInputs.cache
+C:\Users\Karabag\source\repos\Hello-node\bin\Microsoft.NodejsTools.WebRole.dll
